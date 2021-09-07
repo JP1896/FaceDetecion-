@@ -1,4 +1,4 @@
-# FaceDetecion-
+# FaceDetecion- With Python 
 Program that recognize faces using a camera, the face must be registered using a photo, and must be stored in the same path of the file of the project.
 
 This implementation was made in windows and testes in the same OS. But in MAC should work perfectly fine. 
